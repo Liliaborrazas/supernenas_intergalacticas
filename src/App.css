@@ -1,7 +1,13 @@
 .App {
   text-align: center;
+  margin: 0 300px;
 }
 
 .image_header{
   background: url() 
+}
+.parrafo{
+  border: 3px solid fuchsia;
+  padding: 50px;
+  font-size: 1.2rem;
 }

@@ -29,7 +29,7 @@ function App() {
       </header>
       <main>
         <h2>{title}</h2>
-        <p>{explanation}</p>
+        <p className="parrafo">{explanation}</p>
         </main>    
     </div>
   );
